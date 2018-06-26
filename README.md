@@ -1,2 +1,2 @@
 # pyTwitterBot
-Twitter bot to autmoate posting tweets from list of scraped images.
+Twitter bot to automate posting tweets from list of scraped images.
