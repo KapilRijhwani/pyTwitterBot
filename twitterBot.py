@@ -5,10 +5,10 @@ import time
 import os
 
 # credentials to login to twitter api
-consumer_key = 'ktL61ssBdMOVwatvcXxNTm70a'
-consumer_secret = 'bby0tPoQPuG1SJIGUYU7If2G5UvYjPqbYUSnJ9O3tz3AC623dq'
-access_token = '1011536410845876225-WEE2JpCOyVlrcD6nt69JXhSrj5wRrW'
-access_secret = 'xTkOyUKhizoDJ6a5de6rHngS8NqOqD6ndduIwQGtqL5zI'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 image_tag = 'cricket'
 
