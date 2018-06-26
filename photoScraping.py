@@ -4,8 +4,8 @@ import requests
 from bs4 import BeautifulSoup as bs
 import os
 
-image_tag = 'nature'
-url_tag = 'nature'
+image_tag = 'cricket'
+url_tag = 'cricket'
 
 # website with model images
 url = 'https://www.pexels.com/search/' + url_tag + '/'
